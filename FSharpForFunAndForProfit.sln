@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "WorkingWithTypes", "WorkingWithTypes\WorkingWithTypes.fsproj", "{9BF0F459-F593-4AE2-8CDA-BBA2DE23A607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF0F459-F593-4AE2-8CDA-BBA2DE23A607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF0F459-F593-4AE2-8CDA-BBA2DE23A607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF0F459-F593-4AE2-8CDA-BBA2DE23A607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF0F459-F593-4AE2-8CDA-BBA2DE23A607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
